@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luxanna27
-- 👀 I’m interested in learn
+- 👀 I’m interested in learn new things.
   
 
 
