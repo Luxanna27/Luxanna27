@@ -1,5 +1,5 @@
 - 🌋 Hi, I’m @Luxanna27
-- 🗺️ Passionate about GIS's World, Geology ⛰️​ & Geoespacial Data ​🛰️
+- 🗺️ Learning about GIS's World 🛰️ & Geology ⛰️​ ​
   
 
 
