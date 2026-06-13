@@ -1,9 +1,3 @@
-- 🌋 Hi, I’m @Luxanna27
-- 🗺️ Learning about GIS's World 🛰️ & Geology ⛰️​ ​
-  
+# TallerQGIS2Web_ML	
 
-
-<!---
-Luxanna27/Luxanna27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Link al mapa: https://luxanna27.github.io/TallerQGIS2Web_ML/
